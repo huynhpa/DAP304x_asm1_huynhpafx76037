@@ -131,6 +131,7 @@ Follow these steps to execute the program:
        N00000002,70
        ...
        ```
-5. **Example output** for `class1.txt`:
+5. **Example output** for `class1_grades.txt`:
+
 
 
